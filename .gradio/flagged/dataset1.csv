@@ -1,0 +1,8 @@
+A1 Score (0 or 1),A2 Score (0 or 1),A3 Score (0 or 1),A4 Score (0 or 1),A5 Score (0 or 1),A6 Score (0 or 1),A7 Score (0 or 1),A8 Score (0 or 1),A9 Score (0 or 1),A10 Score (0 or 1),Age (Months),Sex,Born with Jaundice?,Family Member with ASD?,Ethnicity,Who completed the test?,output,timestamp
+1,1,1,1,1,0,0,0,1,0,15,m,no,yes,south asian,Health Care Professional,"Error: The feature names should match those that were passed during fit.
+Feature names unseen at fit time:
+- Ethnicity_Hispanic
+- Who completed the test_Health Care Professional
+Feature names seen at fit time, yet now missing:
+- Who completed the test_Health care professional
+",2026-01-17 22:54:54.813550
